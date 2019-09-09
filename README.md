@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/JyrgenSuvalov/X-Road-cs-api.svg?branch=master)](https://travis-ci.com/JyrgenSuvalov/X-Road-cs-api)
+
 # Central Server API
 
 This API is used to add new X-Road members directly to X-Road Central Server without web admin interface.
