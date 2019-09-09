@@ -2,4 +2,4 @@ language: python
 # command to install dependencies
 # command to run tests
 script:
-#  - python -m unittest
+  - python -m unittest
